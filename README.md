@@ -16,19 +16,17 @@ Aplikasi Workout ini adalah aplikasi mobile berbasis Android yang dikembangkan m
 
 * **Android Studio:** Lingkungan pengembangan terintegrasi (IDE) resmi untuk pengembangan aplikasi Android.
 * **Java:** Bahasa pemrograman utama yang digunakan untuk mengembangkan aplikasi Android ini.
-* **(Tambahkan library atau dependensi lain yang Anda gunakan di sini, contohnya):**
-    * `androidx.appcompat:appcompat:1.x.x`
-    * `com.google.android.material:material:1.x.x`
-    * **(Sebutkan library lain seperti Retrofit, Glide, dll. jika ada)**
+* **( library ):**
+    * `import androidx.appcompat.app.AppCompatActivity;`
+    * `import androidx.recyclerview.widget.LinearLayoutManager;`
 
 ## Cara Penggunaan
 
-1.  Unduh dan instal aplikasi Workout dari Google Play Store (jika sudah dirilis) atau melalui file APK.
-2.  Buka aplikasi dan buat akun atau masuk jika sudah memiliki akun.
-3.  Jelajahi berbagai pilihan latihan yang tersedia di halaman utama atau melalui fitur pencarian.
-4.  Pilih latihan yang Anda inginkan dan ikuti panduan yang diberikan.
-5.  Mulai latihan dengan menekan tombol "Start Workout".
-6.  Pantau progres latihan Anda melalui halaman *dashboard* atau profil.
+1.  Buka aplikasi dan buat akun atau masuk jika sudah memiliki akun.
+2.  Jelajahi berbagai pilihan latihan yang tersedia di halaman utama atau melalui fitur pencarian.
+3.  Pilih latihan yang Anda inginkan dan ikuti panduan yang diberikan.
+4.  Mulai latihan dengan menekan tombol "Start Workout".
+5.  Pantau progres latihan Anda melalui halaman *dashboard* atau profil.
 
 ## Instalasi (Untuk Pengembang)
 
@@ -51,6 +49,4 @@ Jika Anda tertarik untuk berkontribusi pada proyek ini, Anda dapat melakukan hal
 * Mengajukan *pull request* dengan perbaikan atau fitur baru.
 * Memberikan saran dan ide untuk pengembangan aplikasi lebih lanjut.
 
-## Lisensi
 
-**(Tambahkan informasi lisensi proyek Anda di sini. Contoh: MIT License)**
