@@ -2,7 +2,7 @@
 
 ## Schrum Trello
 * link trello NurFiki F : https://trello.com/b/ZosRnYfl/workout-app
-* link trello Rizki AR  : https://trello.com/b/5KTCE095/workout-app-%F0%9F%8F%8B%EF%B8%8F%F0%9F%92%AA
+* link trello Rizki AR  : [https://trello.com/b/5KTCE095/workout-app-%F0%9F%8F%8B%EF%B8%8F%F0%9F%92%AA](https://trello.com/invite/b/680322e3da4bc63730a481d7/ATTI6169155a9754054b2ca976e609226c3363FCD666/workout-app-)
 * link trello Ghalih R  : https://trello.com/u/ghalihraka/boards
 
 ## Deskripsi
