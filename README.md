@@ -1,5 +1,8 @@
 # Aplikasi Workout
 
+## Storyboard
+ link : https://trello.com/b/5KTCE095/workout-app-%F0%9F%8F%8B%EF%B8%8F%F0%9F%92%AA
+
 ## Deskripsi
 
 Aplikasi Workout ini adalah aplikasi mobile berbasis Android yang dikembangkan menggunakan Android Studio dan bahasa pemrograman Java. Aplikasi ini dirancang untuk membantu pengguna dalam melakukan berbagai jenis latihan (workout) di mana saja dan kapan saja. Aplikasi ini menyediakan berbagai pilihan latihan dengan tingkatan yang berbeda, panduan langkah demi langkah, serta fitur untuk memantau progres latihan pengguna.
