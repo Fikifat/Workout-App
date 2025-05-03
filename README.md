@@ -1,9 +1,9 @@
 # Aplikasi Workout
 
 ## Storyboard
-link trello NurFiki F : https://trello.com/b/ZosRnYfl/workout-app
-link trello Rizki AR  : https://trello.com/b/5KTCE095/workout-app-%F0%9F%8F%8B%EF%B8%8F%F0%9F%92%AA
-link trello Ghalih R  :
+* link trello NurFiki F : https://trello.com/b/ZosRnYfl/workout-app
+* link trello Rizki AR  : https://trello.com/b/5KTCE095/workout-app-%F0%9F%8F%8B%EF%B8%8F%F0%9F%92%AA
+* link trello Ghalih R  :
 
 ## Deskripsi
 
